@@ -1,2 +1,2 @@
-# first-site
+# art
 website for art
