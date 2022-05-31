@@ -9,8 +9,8 @@
 
 <channel>
 	<title>hwidon</title>
-	<atom:link href="http://hwidon.github.io/art/feed/" rel="self" type="application/rss+xml" />
-	<link>http://hwidon.github.io/art/</link>
+	<atom:link href="https://hwidon.github.io/art/feed/" rel="self" type="application/rss+xml" />
+	<link>https://hwidon.github.io/art/</link>
 	<description>powered by boredom</description>
 	<lastBuildDate>Tue, 31 May 2022 19:52:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://hwidon.github.io/art/hello-world/</link>
-					<comments>http://hwidon.github.io/art/hello-world/#comments</comments>
+		<link>https://hwidon.github.io/art/hello-world/</link>
+					<comments>https://hwidon.github.io/art/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[benjoo2015]]></dc:creator>
 		<pubDate>Tue, 31 May 2022 19:52:44 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://hwidon.github.io/art/?p=1</guid>
+		<guid isPermaLink="false">https://hwidon.github.io/art/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://hwidon.github.io/art/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://hwidon.github.io/art/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
